@@ -7,6 +7,6 @@ winternals-install:
     - name: c:\winternals\
     - enforce_toplevel: False
     - source: https://download.sysinternals.com/files/SysinternalsSuite.zip
-    - source_hash: sha256=c67f49b4d2b4a15c460dfd97a62f842afcd4f215797fde27ae2dcb529ed734eb
+    - source_hash: sha256=90f30d532ca8b63f17025d9be616fd8e0e4a2d67af0b98024916e4a75cea4da8
     - archive_format: zip
     - if_missing: c:\winternals\
